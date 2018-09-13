@@ -76,7 +76,7 @@ El banco desea poder generar una relación a largo plazo con sus clientes.
 
 Ademas en un futuro poderle ofrecer servicios de crédito o inversion muy afines y personalizadas ,ayudandoles de esa manera a sus usuarios a lograr sus metas .
  
-![bench](imagenes/bench.png)
+![bench](imagen/bench.png)
 ## Reporte de resultados  de esta primer semana
 
 Analizando detenidamente los recursos proporcionados por el banco y por el Product Manager se detectarón los siguientes puntos de dolor  al momento de usar la aplicación.
@@ -86,11 +86,13 @@ El usuario se siente inseguro al aceptar Terminos y Condiciones que desconoce.
 Le parece alarmante que le aparezcan al inicio ,antes de poder seguir el proceso dentro de la aplicación.
 El flujo se rompe al momento de visualizar el menú.
 La aplicación no es intuitiva.
-![user](imagenes/user-flow-inicial.png)
+
+![user](imagen/user-flow-inicial.png)
 
 
 En el flujo actual se detectaron puntos de dolor en los usuarios,ya que el hecho de que la aplicación cuente con  varios filtros de seguridad y confirmación les parece demasiado y poco entendible ademas de que les toma bastante tiempo el poder llegar a el menú que ellos necesitan.
-![user1](imagenes/user-flow-actual.png)
+
+![user1](imagen/user-flow-actual.png)
 
 
 ### Se detecto lo siguiente:
@@ -98,7 +100,8 @@ En el flujo actual se detectaron puntos de dolor en los usuarios,ya que el hecho
 El primer recurso que se descartó fue la  user persona  primaria que el banco nos proporciono ,ya que esta user persona no entra en el perfil que maneja el banco para sus usuarios.
 Ademas de que la joven no sabe administrar su cuenta,no genera ingresos propios .
 Esta hipotesis se respaldo ,con entrevistas a adolescentes de 18 y 19 años de edad,permititendo asi poder descartar a esta user persona.
-![primaria](imagenes/fiorella-primaria.png)
+
+![primaria](imagen/fiorella-primaria.png)
 
 
 Otro punto que se detecto es que no se contemplo entre sus usuarios a mujeres entre el 25 - 30 años de edad,ya que ellas tambien tiene cuenta bancaria y les gusta priorizar **el ahorro**.

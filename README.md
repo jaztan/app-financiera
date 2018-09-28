@@ -94,6 +94,11 @@ En el flujo actual se detectaron puntos de dolor en los usuarios,ya que el hecho
 
 ![user1](imagen/user-flow-actual.png)
 
+# Problemas 
+
+![user-per](imagen/problemas.png)
+
+
 
 ### Se detecto lo siguiente:
 
@@ -106,20 +111,28 @@ Esta hipotesis se respaldo ,con entrevistas a adolescentes de 18 y 19 años de e
 
 Otro punto que se detecto es que no se contemplo entre sus usuarios a mujeres entre el 25 - 30 años de edad,ya que ellas tambien tiene cuenta bancaria y les gusta priorizar **el ahorro**.
 
-
-
-
-
-En México hay 61.4 millones de mujeres, es decir, el 51.4% de la población, y en términos proporcionales, la relación por sexo es de 94.4 hombres por cada 100 mujeres, informó el Instituto Nacional de Estadística y Geografía (Inegi).
+En México hay 61.4 millones de mujeres, es decir, el 51.4% de la población, y en términos proporcionales, la relación por sexo es de 94.4 hombres por cada 100 mujeres, informó el Instituto Nacional de Estadística y Geografía (INEGI).
 
 Con base en la Encuesta Intercensal 2015, las entidades que cuentan con una mayor presencia relativa de mujeres son la Ciudad de México, con una relación de 90.3 hombres por cada 100 mujeres, Oaxaca con 90.8 y Puebla con una relación de 91.3
-
-
 
 fuente de consulta (http://cuentame.inegi.org.mx/poblacion/mujeresyhombres.aspx?tema=P)
 (https://www.unotv.com/noticias/portal/nacional/detalle/mujeres-representan-514-poblacion-en-mexico-396402/)
 
-
-
 (http://www.domesticatueconomia.es/prioridades-del-ahorro-funcion-nuestra-edad/)
 
+(https://docs.google.com/presentation/d/17nJqFYanOyk0j1Podh8Le9wX3KWzFG8bhXIIz-_shTo/edit?usp=sharing)
+
+# Entrevistas
+
+Mediante las entrevistas realizadas se pudo llegar  a las personas idoneas  para nuestro producto las cuales son las siguientes.
+
+
+
+![user-perso](imagen/user.perso.png)
+
+![user-per](imagen/user-per.png)
+
+
+# Solución
+
+![solucion](imagen/f1.png)

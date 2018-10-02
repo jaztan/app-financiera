@@ -91,6 +91,39 @@ Ademas con la data  proporcionada se propone crear la aplicación para android y
 
  ![sis](imagen/sis.png)
 
+ # Hipotesis
+
+Se hicieron  varias hipotesis :
+
+- 1 : Que solo usuarios de clase alta contaban con un telefono iphone.
+
+- 2 : Que en su mayoria ,los usuarios que tenian interes de ahorrar se encontraban en un rando de 30 - 35 años de edad.
+
+- 3 : Que la aplicación necesitaba contar con el logo del banco para inspirar seguridad y confianza a los usuarios que la instalaran.
+ 
+- 4 : Que el target no estaba bien definido y eso  ocasiono demasiados conflictos en la publicidad en facebook ads.
+
+# Validación de Hipotesis
+
+- 1 : Se descarto la primer hipotesis ,ya que en las entrevistas realizadas los usuarios eran clase media y ellos contaban con un telefono iphone.
+- 2 : El rango se amplio mas ,y se establecio el siguiente : 28 - 35 años de edad ,en el cual se contempla a hombres y mujeres . 
+- 3 : Esto se reforzo mediante el prototipo diseñado ya que  el primer producto que proporciono el banco no les daba confianza al ser usado,pero cuando probaron el prototipo se sintieron mas seguros aunque en la aplicación se les pidieran datos personales.
+- 4 : El target se difinio al crear a las user personas ,pero ese target solo esta centrado para usuarios IOS ,en este principio ya que para Android las user personas son completamente distintas.
+
+
+# Propuesta de valor 
+
+Para la propuesta de valor se tomaron en cuenta aplicaciones existentes:
+
+![bench](imagen/bench.png)
+
+![mp](imagen/mp.png)
+![mp1](imagen/mp1.png)
+![mp2](imagen/mp2.png)
+![not](imagen/not.png)
+![pv](imagen/pv.png)
+
+
 fuente de consulta (http://cuentame.inegi.org.mx/poblacion/mujeresyhombres.aspx?tema=P)
 (https://www.unotv.com/noticias/portal/nacional/detalle/mujeres-representan-514-poblacion-en-mexico-396402/)
 

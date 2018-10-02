@@ -54,7 +54,9 @@ En el flujo actual se detectaron puntos de dolor en los usuarios,ya que el hecho
 # Herramientas utilizadas
 
 ### Test de Usabilidad
-### Entrevistas
+()
+### Entrevistas  
+(https://docs.google.com/document/d/1XKCJMkNZzRhli7S2sjYswR0QmJxVKHbLRGS3L5ySveE/edit?usp=sharing)
 ### User Personas 
 ### Customer Journey
 ### Wireframes
